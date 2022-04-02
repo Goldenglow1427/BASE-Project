@@ -1,0 +1,8 @@
+On 2022/04/01 11:54 - V1.0 Complete Arduino Coding
+	This is the first update. The BASE coding is mainly finished.
+
+On 2022/04/01 20:36 - V1.1 Fixing errors
+	This update is mainly for some small problems in the main program.
+	1. Change the data recording frequency, prevent the data out of range
+	2. Delete commands in wrong place
+	3. Tiny detail changes(Won't affect the result of program)
